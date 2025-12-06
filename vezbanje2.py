@@ -34,11 +34,6 @@ boje = ["crvena", "zelena", "plava"]
 for boja in boje:
     print(boja)
 
-drnch = [1, "kurac", 5463, [1, 2]]
-for drk in drnch:
-    print(drk)
-    print(drnch)
-
 # Zadatak 5
 print("Zadatak5\n")
 
